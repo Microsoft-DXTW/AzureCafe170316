@@ -1,0 +1,3 @@
+[submodule "microsoft-cognitive-face-node"]
+	path = microsoft-cognitive-face-node
+	url = https://github.com/ericsk/microsoft-cognitive-face-node
