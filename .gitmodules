@@ -4,3 +4,12 @@
 [submodule "microsoft-cognitive-speech-node"]
 	path = microsoft-cognitive-speech-node
 	url = https://github.com/ericsk/microsoft-cognitive-speech-node
+[submodule "Cognitive-Face-Windows"]
+	path = Cognitive-Face-Windows
+	url = https://github.com/Microsoft/Cognitive-Face-Windows
+[submodule "Cognitive-Speech-STT-Windows"]
+	path = Cognitive-Speech-STT-Windows
+	url = https://github.com/Microsoft/Cognitive-Speech-STT-Windows
+[submodule "Cognitive-SpeakerRecognition-Windows"]
+	path = Cognitive-SpeakerRecognition-Windows
+	url = https://github.com/Microsoft/Cognitive-SpeakerRecognition-Windows
